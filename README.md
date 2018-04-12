@@ -1,6 +1,8 @@
-# cs4330-CheckerBoard
+# Retrospective
+pje279
+(4/12/18)
 
-# Retrospective (4/12/18)
+---
 
 ### 1. Reflect on (think about) the work you did for the challenge. How did you do? What did you get right? What did you get wrong? What did you do differently (and possibly better) than what was posted in the solution? What was hard to do?
   I believe I did well enough. I managed to meet all of the requirements we were given, and implemented the desired behavior. I did a few things differently, namely the handling of events when changing the number of rows and columns, the color scheme. The hardest part was honestly just remembering how to use NetBeans/Java (it's been a few years since I last used them), as well as getting used to using JavaFX as I had not used it prior to this assignment.
